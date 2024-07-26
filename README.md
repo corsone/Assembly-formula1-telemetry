@@ -1,5 +1,16 @@
 This is a project for the Computer Architecture course that I completed during the first year of my Bachelor's degree in Computer Science
 
+- [Project specifications](#project-specifications)
+  - [Run the program](#run-the-program)
+  - [Input](#input)
+  - [Output](#output)
+- [Design choices](#design-choices)
+  - [Variables](#variables)
+  - [Functions](#functions)
+  - [Stack management](#stack-management)
+- [Program logic](#program-logic)
+
+
 # Project specifications
 The program simulates the telemetry system of the F1 video game. 
 
